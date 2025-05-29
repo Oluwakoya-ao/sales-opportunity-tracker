@@ -77,10 +77,10 @@ I'm always open to feedback and collaboration!
 
 ```
 sales-channel-analytics-dashboard/
-│
-├── Opportunity Tracking.xlsx        # Raw dataset used
-├──Opportunity Tracking Visuals.pdf    # Exported dashboard visuals (PDF)
-├── README.md                        # Project overview and documentation
+|--------------|---------------------------------|
+| Opportunity Tracking.xlsx | Raw dataset used
+| Opportunity Tracking Visuals.pdf | Exported dashboard visuals (PDF)
+| README.md | Project overview and documentation
 ```
 
 ⭐️ **Don't forget to give this project a star if you find it helpful!**
