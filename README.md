@@ -75,11 +75,11 @@ I'm always open to feedback and collaboration!
 
 ## 📂 Repository Structure
 
-sales-channel-analytics-dashboard/
-|--------------|---------------------------------|
-| Opportunity Tracking.xlsx | Raw dataset used
-| Opportunity Tracking Visuals.pdf | Exported dashboard visuals (PDF)
-| README.md | Project overview and documentation
+| File Name                         | Description                         |
+|----------------------------------|-------------------------------------|
+| `Opportunity Tracking.xlsx`      | Raw dataset used                    |
+| `Opportunity Tracking Visuals.pdf` | Exported dashboard visuals (PDF)    |
+| `README.md`                      | Project overview and documentation  |
 
 ---
 
