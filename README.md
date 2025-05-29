@@ -60,8 +60,6 @@ Filename: `Opportunity Tracking.xlsx`
 
 ## 🙌 Acknowledgment
 
-## 🙌 Acknowledgment
-
 This project was built as part of the **Data Analytics and Deep Dive (DADD)** mentorship program. It was a valuable learning experience that helped sharpen my Power BI and data storytelling skills.
 
 ## 📬 Connect with Me
